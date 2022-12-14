@@ -1,0 +1,9 @@
+{
+"env":{ 
+"url": "https://www.ebay.com.au/"
+ }, 
+"testFiles": ["**/*.{feature,features}"],
+"allure": true,
+"allureResultsPath" : "cypress/allure-results",
+"integrationFolder":"cypress/tests"
+}
