@@ -24,3 +24,6 @@ How to run locally and generate allure report:
   StepDefinition -> All test step implementation go here under the respective steps file 
   Pages -> All the page objects, locators go here under the respective pages 
   support -> All support files like cypress commands go here under the respective folder
+  
+#Github Repo
+https://github.com/MerlinAnand/UbankUICypressCucumberBDDTest
